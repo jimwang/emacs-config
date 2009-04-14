@@ -1,0 +1,4 @@
+(add-to-list 'load-path nil)
+(load-file "./common/cedet.el")
+(require 'ecb)
+(setq debug-on-error t)
