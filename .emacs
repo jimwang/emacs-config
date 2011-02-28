@@ -26,6 +26,14 @@
 (autoload 'vm-submit-bug-report "~/vm" "Send a bug report about VM." t)
 
 
+;;Org-mode
+(require 'org-install)
+(add-to-list 'auto-mode-alist '("\\.org$" . org-mode))
+(define-key global-map "\C-cl" 'org-store-link)
+(define-key global-map "\C-ca" 'org-agenda)
+(setq org-log-done t)
+
+
 
 ;;Help is for the weak
 (global-set-key "\C-h" 'backward-kill-word)
