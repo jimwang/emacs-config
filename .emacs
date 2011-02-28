@@ -413,24 +413,11 @@
 
 
 ;;cedet stuff... playing
-(load-file "~/elisp/cedet/common/cedet.el")
-(load-file "~/elisp/cedet/speedbar/speedbar.el")
-(semantic-load-enable-excessive-code-helpers)
-
-
-(defun start-ecb ()
-  (interactive)
-  (setq semantic-load-turn-everything-on t)
-  (require 'semantic-load)
-  (require 'ecb)
-  )
-
 
 ;;w3
 ;;(setq load-path (cons "~/elisp/w3-4.0pre.47/lisp" load-path))
 ;;(require 'w3-auto)
 
-  (load "c:/emacs/site-lisp/nxml-mode/rng-auto.el")
 
 (require 'htmlize)
 (custom-set-variables
