@@ -1,1 +1,28 @@
 * Tasks for Mon Mar 07 11:33:40 2011
+
+** TODO Update DSL information with ATT
+   DEADLINE: <2011-03-07 Mon>
+
+** DONE Update Macbook Pro with flux and new org-mode stuff
+   DEADLINE: <2011-03-07 Mon> CLOSED: [2011-03-07 Mon 11:52]
+
+** TODO Set up eclipse plugin with help from MartyG
+   DEADLINE: <2011-03-07 Mon>
+
+** TODO Move desk to proper spot
+   DEADLINE: <2011-03-07 Mon>
+
+** TODO Setup email list filters
+   DEADLINE: <2011-03-07 Mon>
+
+** TODO Pidgin integration investigation
+   DEADLINE: <2011-03-07 Mon>
+
+
+** Come up with action plan for flag/banyan deployment
+
+*** TODO Understand flag system
+
+*** TODO Come up with action plan for DSL
+
+
