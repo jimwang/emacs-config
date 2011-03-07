@@ -33,7 +33,18 @@
 (define-key global-map "\C-ca" 'org-agenda)
 (setq org-log-done t)
 
+(setq org-agenda-files (list "~/googletasks.org"))
 
+
+
+;; Date
+;; Insert date string
+(defun insert-date-string ()
+"Insert a nicely formated date string."
+(interactive)
+(insert (format-time-string "%a %b %d %Y")))
+
+(global-set-key (kbd "C-c d") 'insert-date-string)
 
 ;;Help is for the weak
 (global-set-key "\C-h" 'backward-kill-word)
