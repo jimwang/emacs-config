@@ -42,6 +42,7 @@
 
 ** TODO Write assessment for EricF
    DEADLINE: <2011-03-09 Wed>
+   Emailed mfan@guidewire.com, awaiting response on whether or not it's allowed
 
 ** DONE Go through Google testing talk
    DEADLINE: <2011-03-08 Tue> CLOSED: [2011-03-08 Tue 14:51]
@@ -61,6 +62,14 @@
 
 ** DONE Go through security presentation
    DEADLINE: <2011-03-08 Tue> CLOSED: [2011-03-08 Tue 20:37]
+
 ** DONE Go through I18N presentation
    DEADLINE: <2011-03-08 Tue> CLOSED: [2011-03-08 Tue 20:37]
+
+
+* Tasks for Wed Mar 09 2011
+
+** DONE Go through privacy presentation
+   DEADLINE: <2011-03-09 Wed> CLOSED: [2011-03-09 Wed 11:08]
+
 
