@@ -1,28 +1,66 @@
 * Tasks for Mon Mar 07 11:33:40 2011
 
-** TODO Update DSL information with ATT
+
+** DONE Update DSL information with ATT
    DEADLINE: <2011-03-07 Mon>
+   CLOSED: [2011-03-07 Mon 16:53]
 
 ** DONE Update Macbook Pro with flux and new org-mode stuff
-   DEADLINE: <2011-03-07 Mon> CLOSED: [2011-03-07 Mon 11:52]
-
-** TODO Set up eclipse plugin with help from MartyG
    DEADLINE: <2011-03-07 Mon>
+   CLOSED: [2011-03-07 Mon 11:52]
 
-** TODO Move desk to proper spot
+** DONE Set up eclipse plugin with help from MartyG
    DEADLINE: <2011-03-07 Mon>
+   CLOSED: [2011-03-07 Mon 14:34]
 
-** TODO Setup email list filters
+
+** DONE Move desk to proper spot
    DEADLINE: <2011-03-07 Mon>
+   CLOSED: [2011-03-07 Mon 14:30]
+   (Turns out not necessary)
 
-** TODO Pidgin integration investigation
+** DONE Setup email list filters
    DEADLINE: <2011-03-07 Mon>
+   CLOSED: [2011-03-07 Mon 14:55]
+   (Now emails only with me in to line are sent to me and show up in inbox)
 
 
-** Come up with action plan for flag/banyan deployment
+** DONE Pidgin integration investigation
+   DEADLINE: <2011-03-07 Mon>
+   CLOSED: [2011-03-07 Mon 14:35]
+   (pidgin now works with internal google chat)
 
-*** TODO Understand flag system
 
-*** TODO Come up with action plan for DSL
 
+** TODO Come up with action plan for flag/banyan deployment
+   DEADLINE: <2011-03-08 Tue>
+   (Look at code and try to figure out action items)
+
+
+
+* Tasks for Tue Mar 08 2011
+
+** TODO Write assessment for EricF
+   DEADLINE: <2011-03-09 Wed>
+
+** DONE Go through Google testing talk
+   DEADLINE: <2011-03-08 Tue> CLOSED: [2011-03-08 Tue 14:51]
+
+** DONE Go through Google internationalization talk
+   DEADLINE: <2011-03-08 Tue> CLOSED: [2011-03-08 Tue 14:51]
+
+** DONE Go through Google Adwords 3.0 presentation
+   DEADLINE: <2011-03-08 Tue> CLOSED: [2011-03-08 Tue 14:52]
+   (Not extraordinarily useful)
+
+** DONE Go through readability presentation
+   DEADLINE: <2011-03-08 Tue> CLOSED: [2011-03-08 Tue 15:40]
+
+** DONE Go through logging presentation
+   DEADLINE: <2011-03-08 Tue> CLOSED: [2011-03-08 Tue 15:40]
+
+** DONE Go through security presentation
+   DEADLINE: <2011-03-08 Tue> CLOSED: [2011-03-08 Tue 20:37]
+** DONE Go through I18N presentation
+   DEADLINE: <2011-03-08 Tue> CLOSED: [2011-03-08 Tue 20:37]
 
