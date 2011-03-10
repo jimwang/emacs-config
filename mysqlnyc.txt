@@ -1,0 +1,13 @@
+* Outline for Mysql NY knowledge transfer
+
+** Starting mysql binaries
+Binaries out of date, if mysql process restarts and binary out of date, it barfs.
+
+** LBC MySQL Database
+Look at banyan site.
+
+** DPL layer
+We use DPL (Data persistence layer) to interact with MySQL.
+
+** Also use mysql on borg
+http://go/lbcmysql
