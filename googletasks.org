@@ -32,19 +32,18 @@
 
 
 
-** TODO Come up with action plan for flag/banyan deployment
-   DEADLINE: <2011-03-08 Tue>
+** DONE Come up with action plan for flag/banyan deployment
+   DEADLINE: <2011-03-08 Tue> CLOSED: [2011-08-31 Wed 13:49]
    (Look at code and try to figure out action items)
-
-
 
 * Tasks for Tue Mar 08 2011
 
-** TODO Write assessment for EricF
-   DEADLINE: <2011-03-09 Wed>
+** DONE Write assessment for EricF
+   DEADLINE: <2011-03-09 Wed> CLOSED: [2011-08-31 Wed 13:49]
    Emailed mfan@guidewire.com, awaiting response on whether or not it's allowed
 
-** DONE Go through Google testing talk
+** DONE Go th
+rough Google testing talk
    DEADLINE: <2011-03-08 Tue> CLOSED: [2011-03-08 Tue 14:51]
 
 ** DONE Go through Google internationalization talk
@@ -71,4 +70,28 @@
 
 ** DONE Go through privacy presentation
    DEADLINE: <2011-03-09 Wed> CLOSED: [2011-03-09 Wed 11:08]
+
+* Tasks for Mon Mar 14 2011
+
+   DEADLINE: <2011-03-14 Mon>
+** DONE Region population check
+   CLOSED: [2011-08-31 Wed 13:50]
+   Check to see region population sizes per language and see if we need to special case anything
+
+** DONE Investigate rest of flags
+   CLOSED: [2011-08-31 Wed 13:50]
+
+* Tasks for <2011-08-31 Wed>
+
+** TODO Investigate Gaia delegation more fully
+   SCHEDULED: <2011-08-31 Wed>
+   This involves trying to get to the bottom of the funky ES Gaia delegation problem
+
+
+
+
+
+** TODO Investigate translation packages and see if they're still being used.
+   SCHEDULED: <2011-08-31 Wed>
+   Go to http://tc and take a look at the three LBC packages and see if the targets are used anywhere
 
