@@ -88,10 +88,32 @@ rough Google testing talk
    This involves trying to get to the bottom of the funky ES Gaia delegation problem
 
 
+** DONE Investigate translation packages and see if they're still being used.
+   SCHEDULED: <2011-08-31 Wed> CLOSED: [2011-09-01 Thu 13:51]
+   Go to http://tc and take a look at the three LBC packages and see if the targets are used anywhere.
+   Waiting on Ross Yeh (rossyeh@google.com) to add me to the permissions for the TC.
 
 
+** DONE Fix failing test because of new webkit driver.
+   SCHEDULED: <2011-08-31 Wed> CLOSED: [2011-08-31 Wed 16:41]
+   Fixed the test.
 
-** TODO Investigate translation packages and see if they're still being used.
-   SCHEDULED: <2011-08-31 Wed>
-   Go to http://tc and take a look at the three LBC packages and see if the targets are used anywhere
 
+** TODO [LBC] special tag i18n continuous integration
+   SCHEDULED: <2011-09-01 Thu>
+   Ask either zorzella or jrp about what this entails on the backlog
+   Turns out that you need to go to TC and find all the untranslated strings in Pt or some other language.
+   Go talk to rossyeh and see why they are not translated, and if they need to be translated, send
+   the strings to somebody who can describe what they do - Mike Cripps for coupons, Daniel Nadasi for
+   Beefcake/Goodies, and Sheng for Boost.
+
+** DONE Hook up category suggest box with real Geo Ontology
+   SCHEDULED: <2011-09-06 Tue> CLOSED: [2011-09-07 Wed 14:27]
+   Write tests and create a new suggestion oracle that works for the category filter that interacts
+   with Scott's code
+
+* Tasks for <2011-09-07 Wed>
+
+** TODO Start working on migration from GFS to CNS
+   SCHEDULED: <2011-09-07 Wed>
+   Internal links - see Tiddlywiki file:///home/jimwang/emacs/empty.html#[[GFS%20Colossus%20Migration]]

@@ -20,6 +20,11 @@
 (add-to-list 'exec-path "/opt/local/sbin")
 
 
+(when (eq system-type 'darwin) ;; mac specific settings
+  (setq mac-option-modifier 'alt)
+  (setq mac-command-modifier 'meta)
+)
+
 (autoload 'vm "~/vm" "Start VM on your primary inbox." t)
 (autoload 'vm-visit-folder "~/vm" "Start VM on an arbitrary folder." t)
 (autoload 'vm-mail "~/vm" "Send a mail message using VM." t)
@@ -454,7 +459,3 @@
   ;; Your init file should contain only one such instance.
   ;; If there is more than one, they won't work right.
  )
-
-;; X copy pasta
-(setq x-select-enable-clipboard t)
-(setq interprogram-paste-function 'x-cut-buffer-or-selection-value)
