@@ -19,7 +19,6 @@
 (add-to-list 'exec-path "/opt/local/godi/sbin")
 (add-to-list 'exec-path "/opt/local/sbin")
 
-
 (when (eq system-type 'darwin) ;; mac specific settings
   (setq mac-option-modifier 'alt)
   (setq mac-command-modifier 'meta)
@@ -38,7 +37,7 @@
 (define-key global-map "\C-ca" 'org-agenda)
 (setq org-log-done t)
 
-(setq org-agenda-files (list "~/googletasks.org"))
+(setq org-agenda-files (list "~/org"))
 
 
 
@@ -106,7 +105,12 @@
 ;;(set-face-attribute 'default nil :family "monaco" :height 130)
 ;;(set-face-attribute 'default nil :family "andale mono" :height 140)
 ;;(set-face-attribute 'default nil :family "anonymous" :height 130)
-;;(set-face-attribute 'default nil :family "consolas" :height 140)
+;;(set-face-attribute 'default nil :family "Operator Mono" :height 140)
+
+(let ((font "Operator Mono 14"))
+  (set-frame-font font)
+  (add-to-list 'default-frame-alist
+               `(font . ,font)))
 
 ;;-----------------------------------------------------------
 ;;ruby
