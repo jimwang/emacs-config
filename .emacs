@@ -108,6 +108,11 @@
 ;;(set-face-attribute 'default nil :family "anonymous" :height 130)
 ;;(set-face-attribute 'default nil :family "consolas" :height 140)
 
+(let ((font "Operator Mono 14"))
+  (set-frame-font font)
+  (add-to-list 'default-frame-alist
+               `(font . ,font)))
+
 ;;-----------------------------------------------------------
 ;;ruby
 ;;-----------------------------------------------------------
